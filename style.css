@@ -23,7 +23,7 @@ body{
     border-radius: 20px;
     box-shadow: 10px 10px 10px grey;
     row-gap: 20px;
-    background-color: aquamarine;
+    background-color: rgb(79, 219, 173);
 }
 .quote{
     padding: 10px;
